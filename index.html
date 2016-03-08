@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Episodes</h1>
+
+  <ul class="post-list">
+
+    {% for episode in site.episodes %}
+    <li>
+
+      <h2>
+        <a class="post-link" href="{{ episode.url | prepend: site.baseurl }}">{{ episode.title }}</a>
+      </h2>
+      Season {{episode.season}}
+      Episode {{episode.number}}
+      <span class="post-meta">{{ episode.date | date: "%b %-d, %Y" }}</span>
+
+    </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
