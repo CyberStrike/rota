@@ -423,6 +423,8 @@ Sheppard raised an eyebrow. "No parties?"
 
 "Let's just say we're workaholics," he said as the Apollo slowly arced up out of orbit.
 
+---
+
 A set of rings activated in a subsurface structure beneath a benign rural world on the red gate network, depositing the robed man back in his personal lair. He walked over to a nearby computer terminal and began locking it down beneath a plethora of security codes.
 
 Next, he shut down the small facility's power generator. Backup lighting kicked on, illuminating the spartan chambers in a dull blue glow. The man retrieved several small crystals from a wall niche and walked back to the rings, where he departed. Once the rings settled the backup lights ceased as well. The facility where he had spent many of his long years now lay dormant. He didn't expect that he'd ever have need to return there again.
