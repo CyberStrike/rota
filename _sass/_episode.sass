@@ -32,26 +32,31 @@ a
   padding: 0 1em 0 1em
 
   .title
-    font-family: $title-font-family
-    text-align: center
     padding-top: 10px
+    font-family: $title-font-family
     font-size: 3em
+    font-weight: 400
+    text-align: center
+    text-overflow: ellipsis
 
 .chapter-body
   max-width: 38em
   margin: 5em auto 0 auto
   padding: 0 1em 0 1em
+  h2
+    font-size: 2em
   h1,h2,h3
-    font-family: 'audiowide'
+    font-family: $title-font-family
     margin-top: 1.65em
     margin-bottom: 0.5em
+  h2 + p
+    text-indent: 25px
+
 
 .chapter-body p
+
   text-align: left
   line-height: 1.65rem
-
-.section p:first-of-type
-  text-indent: 25px
 
 .toggle
   background: #fff

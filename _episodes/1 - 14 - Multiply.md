@@ -3,11 +3,12 @@ layout: episode
 title:  "Multiplication"
 season: 1
 number: 14
-date:   2016-03-08
+date:   2016-03-07
 categories: Season 1
 ---
 
-## 1
+1
+---
  
 The stargate on resource outpost 13 opened with the standard kawoosh illuminating the nighttime forest. It quickly retracted into the subtle fluctuations of the event horizon, dimming the ambient glow on the thick vegetation that engulfed the gate in all directions save one.
 

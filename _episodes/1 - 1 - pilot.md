@@ -3,7 +3,7 @@ layout: episode
 title:  "Pilot"
 season: 1
 number: 1
-date:   2016-03-03 01:43:52 -0500
+date:   2016-03-01
 categories: Season 1
 ---
 
