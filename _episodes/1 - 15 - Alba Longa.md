@@ -387,8 +387,8 @@ Mike frowned. "What do you mean?"
 
 "Hmmn, you may have a point there."
 
-Sheppard raised an eyebrow. "I do?"
 
+Sheppard raised an eyebrow. "I do?"
 "Maybe," Mike cautioned. "Some species have different castes for different tasks… such as the Wraith. Could be this species does too."
 
 "I don't know. Brutes piloting ships?"
@@ -429,6 +429,8 @@ A set of rings activated in a subsurface structure beneath a benign rural world 
 
 Next, he shut down the small facility's power generator. Backup lighting kicked on, illuminating the spartan chambers in a dull blue glow. The man retrieved several small crystals from a wall niche and walked back to the rings, where he departed. Once the rings settled the backup lights ceased as well. The facility where he had spent many of his long years now lay dormant. He didn't expect that he'd ever have need to return there again.
 
+---
+
 On Dakara a ceremony was being held, commissioning the first three H'tel motherships. Thousands of Jaffa stood in attendance as the ships took off from their berths one by one and headed out amongst the stars. Now that the Jaffa had the ability to defend themselves, with both from their ground-based weaponry and the ships in orbit, they could begin to expand beyond Dakara and incorporate other Jaffa worlds into the System Lords' domain.
 
 This, Bra'tac expected, would draw the ire of many within the crumbling Jaffa Nation, but now that they had the basis of a proper fleet the others would have no viable choice but to accept their acquisitions, the first of which would be Chulak.
@@ -446,6 +448,8 @@ The other two H'tel would remain in orbit as sentinels safeguarding the home of 
 Bra'tac had designed the vessels to iconically draw on both the history of the Jaffa and their future as servants of the Alterra… and based on the reactions of the throngs assembled in celebration around the Dakara shipyard he had succeeded spectacularly.
 
 One thing that Bra'tac lacked, however, was an acceptable First Prime. He had several candidates that would be suitable in the old roll, but between himself and Ryan Stevenson, they had both agreed that any First Prime would be on a fast track to becoming an Alterra and a subsequent addition to the System Lords. As it was, none of Bra'tac's men measured up in that regard… and the one individual on his mind wanted nothing to do with his mission. He hoped in time that would change, but for the moment he would have to do without unless another suitable individual rose to notice.
+
+---
 
 "What do you have?" Ryan asked Nordman as he walked up onto the gate room platform.
 
