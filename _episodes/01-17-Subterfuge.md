@@ -785,13 +785,8 @@ The top symbol was again the crest of the I.O.A… .but the symbols beneath matc
 Cam's eyes narrowed dangerously. "That's Chinese… "
 
 
-
-
-
 5
-
-
-
+---
 
 
 Ian Victor was having a meeting in his office with his American counterpart in the SGC, Kelly VanMeter, when Landry burst through the door.

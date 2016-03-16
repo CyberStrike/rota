@@ -1,13 +1,15 @@
 ---
 layout: episode
-title:  "Pilot"
-season: 1
-number: 1
-date:   2016-03-01
+title: "Pilot"
+season: 01
+number: 01
+date: 2016-03-01
 categories: Season 1
 ---
 
-## 1
+
+1
+---
 
 
 "I regret it's come to this, Colonel. To be completely honest, I've always admired you…but now you've crossed a line that I simply cannot condone," Woolsey said with a tone of finality as he and Sheppard stood in front of the gate in Atlantis's control room. An active wormhole back to Earth shimmered ominously large in front of them.
@@ -61,7 +63,8 @@ Without thinking his hand retreated from his radio. He looked down at it in wond
 Stevenson pulled the green cap off his head and closed his eyes. He sucked in one last breath and stepped forward.
 
 
-## 2
+2
+---
  
 
 "You've really done it this time, Sheppard," Landry said from across the table in the brig.
@@ -114,8 +117,8 @@ Landry shut the door behind him with a clank, leaving Sheppard sitting alone beh
 Sheppard turned to look over his shoulder at the female guard. "Do we get any bathroom breaks?"
 
  
-## 3
-
+3
+---
 
 "Has he said anything?" Dr. Lam asked Daniel when she returned to Stevenson's bed after taking a brief lunch.
 
@@ -210,8 +213,8 @@ O'Neill started to say something more into the silence, but thought twice about 
 "Job security." O'Neill said deadpan as he left.
 
  
-## 4
- 
+4
+---
 
 The sickbay was blissfully quiet and unoccupied while Dr. Lam wrote up the death certificate for Captain Stevenson on her computer. Suddenly one of the nurses screamed in shock.
 
@@ -305,8 +308,8 @@ Lam and Daniel exchanged glances. "It seems a few of them have become a bit scra
 "Of course," Landry said, standing up. Parson nodded to both Generals then left the conference table, briefcase in hand and posse in tow.
 
  
-## 5
-
+5
+---
 
 "Where am I?" Stevenson asked after waking up from another blackout, still speaking in Ancient.
 
@@ -681,8 +684,8 @@ Stevenson finished his rations and laid down in a meditative pose. He remained m
 After soaking it all in he finally managed to fall asleep.
 
  
-## 8
-
+8
+---
 
 When Sheppard woke up ten hours later he found Stevenson's bed empty.
 
@@ -888,8 +891,8 @@ Sheppard glared at him and the man held up his hands in defense. "Never mind."
 Ronon brandished his weapon. "Gladly."
 
  
-## 9
-
+9
+---
 
 Five and a half hours later the last wormhole to Earth was opened. Most Atlantis personnel had left without incident, but a few SF's had to be physically subdued. The last group of those not willing to stay walked through the gate, leaving Sheppard, Teyla, Ronon, and Rodney standing in front of the portal back to Earth.
 
@@ -997,8 +1000,8 @@ He took a moment to gather his thoughts and get his emotions back in check, then
 
 
  
-## 10
-
+10
+---
 
 
 "Excuse me for saying so," Teyla interjected from her seat in the briefing room, "but I find it hard to believe that the few of us that are left on Atlantis would have any chance of defeating the Wraith."
@@ -1137,4 +1140,3 @@ Sheppard glanced down at the two dozen addresses listed below the message and wa
 "I agree," Teyla said. "It's time we got back to work."
 
 Sheppard smiled as the kawoosh retreated back into the event horizon. "It's good to be back," he said as the three stepped through the gate together.
-
