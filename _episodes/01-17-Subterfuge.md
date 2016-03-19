@@ -1,7 +1,7 @@
 ---
 layout: episode
 title:  "Subterfuge"
-season: 1
+season: 01
 number: 17
 date:   2016-03-08
 categories: Season 1

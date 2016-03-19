@@ -1,7 +1,7 @@
 ---
 layout: episode
 title:  "Alba Longa"
-season: 1
+season: 01
 number: 15
 date:   2016-03-08
 categories: Season 1

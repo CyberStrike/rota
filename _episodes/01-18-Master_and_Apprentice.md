@@ -1,7 +1,7 @@
 ---
 layout: episode
 title:  "Master and Apprentice"
-season: 1
+season: 01
 number: 18
 date:   2016-03-08
 categories: Season 1
