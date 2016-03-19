@@ -1,7 +1,7 @@
 ---
 layout: episode
 title:  "Verification"
-season: 1
+season: 01
 number: 16
 date:   2016-03-08
 categories: Season 1

@@ -1,7 +1,7 @@
 ---
 layout: episode
 title:  "Multiplication"
-season: 1
+season: 01
 number: 14
 date:   2016-03-07
 categories: Season 1
