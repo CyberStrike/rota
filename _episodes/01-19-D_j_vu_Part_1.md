@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "D… j…  vu: Part 1"
+title: "D… j… Vu: Part 1"
 season: 01
 number: 19
 date: 2016-03-17
@@ -509,7 +509,6 @@ Bra'tac shook his head. "Their data systems were deleted prior to our arrival. W
 
 3
 ---
-
 
 
 When the H'tel entered Earth orbit it was met by the three Tauri warships and escorted by the two American vessels as the Kerensky kept its distance, either intimidated by the larger vessel or not sure of the Jaffa's motives. The Phoenix and the newly finished Icarus took up flanking positions alongside the pyramid ship as they circled around the planet towards China.
