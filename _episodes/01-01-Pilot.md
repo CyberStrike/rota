@@ -3,7 +3,7 @@ layout: episode
 title: "Pilot"
 season: 01
 number: 01
-date: 2016-03-01
+date: 2016-02-30
 categories: Season 1
 ---
 

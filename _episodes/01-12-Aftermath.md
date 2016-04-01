@@ -2,8 +2,8 @@
 layout: episode
 title: "Aftermath"
 season: 01
-number: 12s
-date: 2016-04-01
+number: 12
+date: 2016-03-02
 categories: Season 1
 ---
 

@@ -2,8 +2,8 @@
 layout: episode
 title:  "Epiphany 2"
 season: 01
-number: 13
-date:   2016-03-07
+number: 11
+date:   2016-03-01
 categories: Season 1
 ---
 
