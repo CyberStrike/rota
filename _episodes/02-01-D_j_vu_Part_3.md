@@ -854,7 +854,7 @@ The irony of Sheppard's statement didn't escape O'Neill. He glanced back at the 
 
 
 5
-___
+---
 
 
 The Chinese Goa'uld was coming out of the central elevator on level 6 enroute to the science labs when the base-wide alarm sounded. He did a double take, then pulled back his sleeve to reveal a wrist bound radio.
