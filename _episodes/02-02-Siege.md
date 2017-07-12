@@ -8,7 +8,7 @@ categories: Season 2
 ---
 
 1
-___
+---
 
 Ryan Stevenson stood in Atlantis's holographic chamber monitoring the growing armada of Wraith ships surrounding the planet. They were clustered about in groups in far orbit around Lantea, outside of Atlantis's weapons' range, but still close enough to intercept any ships coming and going from the city with their crude hyperdrive destabilizers reaching out and blanketing the planet from somewhere deep within the Wraith Hive ships.
 
